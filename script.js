@@ -264,4 +264,4 @@ go((location.hash || "#home").slice(1));
 window.addEventListener("hashchange", function () {
     go(location.hash.slice(1));
 });
-/* Code by Neuron [Gos-Link]
+/* Code by Neuron [Gos-Link] */
